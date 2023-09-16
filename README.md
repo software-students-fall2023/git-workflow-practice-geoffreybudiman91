@@ -3,3 +3,6 @@ Link to Article: https://www.theverge.com/2023/9/15/23875396/unity-mobile-develo
 
 ### My Thoughts about the Article
 This article is about game developers' response to the recent announcement of Unity's new pricing model. I've seen quite a bit of discourse online about the negative impacts of this new pricing model when Unity first announced it. Hence, I was quite interested to learn how game developers affected by this have been fighting back against the changes. I am happy that these game developers have banded together against Unity in order to fight these predatory changes and I hope that they will be succesful.
+
+## Zander's comment
+It's not surprising to see this collective action from mobile game developers against Unity's new pricing model. Unity is a popular game engine, and these changes have significant implications for many developers who rely on it for their projects. The decision to block Unity from monetizing their games by turning off IronSource and Unity Ads sends a strong message about their dissatisfaction. This protest is not just about financial impact but also the potential shift in developer focus from creating immersive gameplay experiences to prioritizing monetization strategies. It's a reminder that game development is an ecosystem where developers and the platforms they use should work collaboratively.
